@@ -1,0 +1,1 @@
+if(2 === 3){exit;} else {echo "hi";}
