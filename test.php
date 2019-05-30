@@ -1,1 +1,1 @@
-if(2 === 3){exit;} else {echo "hi";}
+if(2 === 2){exit;} else {echo "hi";}
