@@ -1,6 +1,7 @@
 <?php
 
-	if( isset($_GET["username"])) {
+	if( isset($_GET["username"])) { 
+   //https://exceptionshub.com/php-_get-and-undefined-index.html
 		echo "<p><b>Hi ", $_GET["username"] , "</b></p>";
 		echo "<P>Welcome back!</p>";
       echo "<p>Remember: don't share your password!</p>";
