@@ -1,0 +1,13 @@
+cd Documents/Git/Fortran/
+git pull
+cd ../CPPpractice/
+git pull
+cd  ../privateShell/
+git pull
+cd ../MiscRScripts/
+git pull
+cd ../Java/
+git pull
+apt update
+apt upgrade
+apt autoremove
